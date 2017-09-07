@@ -1,0 +1,94 @@
+{
+  "projects": {
+    "nd4j":
+    {
+      "name" : "nd4j",
+      "git-url": "https://github.com/deeplearning4j/nd4j.git",
+      "git-ref": "9bf3af90837e51622efa110cfee42e084dc1944b"
+    },
+
+    "commons-math":
+    {
+      "name" : "commons-math",
+      "git-url": "https://github.com/apache/commons-math.git",
+      "git-ref": "34886092d926da89e7040547d48cd3891e51595b"
+    },
+
+    "ejml":
+    {
+      "name" : "ejml",
+      "git-url": "https://github.com/lessthanoptimal/ejml.git",
+      "git-ref": "589ae92462a6d4f8ab555d683def7c8def77c004"
+    },
+
+    "jblas":
+    {
+      "name" : "jblas",
+      "git-url": "https://github.com/mikiobraun/jblas.git",
+      "git-ref": "4c89e188a2b2e000aa6a57d23dfb1f997bf66214"
+    },
+
+    "matrix-toolkits-java":
+    {
+      "name": "matrix-toolkits-java",
+      "git-url": "https://github.com/fommil/matrix-toolkits-java.git",
+      "git-ref": "6157618bc86bcda3749af2a60bf869d8f3292960"
+    },
+
+    "ojAIgo":
+    {
+      "name": "ojAIgo",
+      "git-url": "https://github.com/optimatika/ojAlgo.git",
+      "git-ref": "89b6f4e4dd6d91d1ff3b44aafb17814aa24d73cd"
+    },
+
+    "exp4j":
+    {
+      "name": "exp4j",
+      "git-url": "https://github.com/fasseg/exp4j.git",
+      "git-ref": "8a4e2104b6e73d54bb7b0ac39fd18e7a0874c4ea"
+    },
+
+    "JLargeArrays":
+    {
+      "name": "JLargeArrays",
+      "git-url": "https://github.com/IcmVis/JLargeArrays.git",
+      "git-ref": "15e13a4e37e1cbdcec0c15abcebfc62706d50ffe"
+    },
+
+    "jscience":
+    {
+      "name": "jscience",
+      "git-url": "https://github.com/tarelli/jscience.git",
+      "git-ref": "28bf87f3e98dde9524e877bade78d5a32728f65e"
+    },
+
+    "la4j":
+    {
+      "name": "la4j",
+      "git-url": "https://github.com/vkostyukov/la4j.git",
+      "git-ref": "db204167aa6161cd2104ce845e62518cae451d70"
+    },
+
+    "scijava-common":
+    {
+      "name": "scijava-common",
+      "git-url": "https://github.com/scijava/scijava-common.git",
+      "git-ref": "85ae70b9e0719688e2426b27f9ae860068f6c6e6"
+    },
+
+    "imagej":
+    {
+      "name": "imagej",
+      "git-url": "https://github.com/imagej/imagej.git",
+      "git-ref": "1a07f61ecd190498bea50d9717d2bf92d964d9fa"
+    },
+
+    "scifio":
+    {
+      "name": "scifio",
+      "git-url": "https://github.com/scifio/scifio.git",
+      "git-ref": "2760af6982ad18aab400e9cd99b9f63ef2495333"
+    }
+  }
+}
