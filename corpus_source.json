@@ -35,9 +35,9 @@
       "git-ref": "6157618bc86bcda3749af2a60bf869d8f3292960"
     },
 
-    "ojAIgo":
+    "ojAlgo":
     {
-      "name": "ojAIgo",
+      "name": "ojAlgo",
       "git-url": "https://github.com/optimatika/ojAlgo.git",
       "git-ref": "89b6f4e4dd6d91d1ff3b44aafb17814aa24d73cd"
     },
